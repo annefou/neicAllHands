@@ -42,4 +42,6 @@ dependencies:
   - nodejs
   - pythreejs
   - bqplot
+  - jupyter_dashboards
+  - jupyter_dashboards_bundlers
 
