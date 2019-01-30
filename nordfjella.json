@@ -1,5 +1,5 @@
 {
-	                        "type": "FeatureCollection",
+                                "type" : "FeatureCollection", "features":[{
 				"type" : "Feature",
 				"geometry" : {
 					"type" : "Polygon",
@@ -6649,6 +6649,11 @@
 					"opphav" : "Villrein/tamrein",
 					"faktaark" : "http://faktaark.naturbase.no/?id=BV00000411",
 					"navnerom" : "no.miljodirektoratet.naturbase",
-					"objekttype" : "VillreinOmråde"
+					"objekttype" : "VillreinOmråde", 
+                                        "style": {"color": "blue",
+                                                  "weight": 1,
+                                                  "fillColor": "red",
+                                                  "fillOpacity": 1.0}
 				}
+ }]
 			}
